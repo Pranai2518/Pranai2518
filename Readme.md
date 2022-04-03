@@ -5,8 +5,13 @@
   <p>Hey there, welcome!</br>
   I'm Pranai Raj, Front End developer from <img src="https://flagcdn.com/16x12/in.png"/> <b>India</b>.</p>
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm currently learning MERN.
+  🌱 &nbsp;I'm currently learning MERN.\
+  💡 &nbsp;I like to explore new trends and learn new technologies.
+  
+  
+<h3><p align=""> <img src="https://komarev.com/ghpvc/?username=Pranai2518&label=Profile%20views&color=6805D3&style=flat" alt="PranaiRaj" /> </p></h3>
+  
+
   
  <h1>Technical Skills 🛠</h1>
  
@@ -54,5 +59,7 @@
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranai-raj/)
+<a href="mailto:kaligithipranai@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 
 
