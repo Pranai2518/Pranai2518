@@ -6,14 +6,15 @@
   I'm Pranai Raj, Front End developer from <img src="https://flagcdn.com/16x12/in.png"/> <b>India</b>.</p>
   	
   🌱 &nbsp;I'm currently learning MERN.\
-  💡 &nbsp;I like to explore new trends and learn new technologies.
+  💡 &nbsp;I like to explore new trends and learn new technologies.\
+  📫 How to reach me **kaligithipranai@gmail.com**
   
   
-<h3><p align=""> <img src="https://komarev.com/ghpvc/?username=Pranai2518&label=Profile%20views&color=6805D3&style=flat" alt="PranaiRaj" /> </p></h3>
+<h3><p align=""> <img src="https://komarev.com/ghpvc/?username=Pranai2518&label=Profile%20views&color=blue&style=flat" alt="PranaiRaj" /> </p></h3>
   
 
   
- <h1>Technical Skills 🛠</h1>
+ <h1>Tech Skills 🛠</h1>
  
  ### 🧑‍💻 Languages
 
@@ -61,5 +62,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranai-raj/)
 <a href="mailto:kaligithipranai@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
+  
+## 📊 Stats
 
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=Pranai2518&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,4b0082" alt="Pranai Raj" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranai2518&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,4b0082" alt="Pranai Raj" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranai2518&theme=dark" alt="Pranai Raj" /></p>
+  </div>
+
+ [![Pranai Raj GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Pranai2518&theme=xcode)](https://git.io/Pranai2518)
 
