@@ -68,8 +68,8 @@
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=Pranai2518&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,4b0082" alt="Pranai Raj" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranai2518&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,4b0082" alt="Pranai Raj" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Pranai2518&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=blue&icon_color=blueE&text_color=000000&bg_color=0,000000,blue" alt="Pranai Raj" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranai2518&show_icons=true&locale=en&layout=compact&title_color=blue&icon_color=2234AE&text_color=000000&bg_color=0,000000,blue" alt="Pranai Raj" /></td>
   </tr>
 </table>
 
