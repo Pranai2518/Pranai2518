@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/75829770/161398251-cee4221a-92e6-4fee-8406-1bf5c8c38a7d.gif" width="35px" />&nbsp;<b>Hi, I'm Pranai Raj</b>
+# <img src="https:://user-images.githubusercontent.com/75829770/161398251-cee4221a-92e6-4fee-8406-1bf5c8c38a7d.gif" width="35px" />&nbsp;<b>Hi, I'm Pranai Raj</b>
 
 <img align="right" src="https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif" width="400"/>
 <p align="left">
