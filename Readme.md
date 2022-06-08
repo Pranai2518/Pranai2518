@@ -73,6 +73,7 @@
   </tr>
 </table>
 
+
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranai2518&count_private=true&show_icons=true&locale=en&layout=compact&title_color=blue&icon_color=2234AE&text_color=000000&bg_color=0,000000,blue" alt="Pranai Raj" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Pranai2518&count_private=true&amp;theme=react-dark&amp;hide_border=true&amp;area=true" alt="Pranai Raj" /></p>
