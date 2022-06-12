@@ -5,7 +5,7 @@
   <p>Hey there, welcome!</br>
   I'm Pranai Raj, Front End developer from <img src="https://flagcdn.com/16x12/in.png"/> <b>India</b>.</p>
   	
-  🌱 &nbsp;I'm currently learning MERN.\
+  🌱 &nbsp;I'm currently learning MERN and DSA.\
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   📫 How to reach me **kaligithipranai@gmail.com**
   
