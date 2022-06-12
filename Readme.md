@@ -7,7 +7,7 @@
   	
   🌱 &nbsp;I'm currently learning MERN and DSA.\
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  📫 How to reach me **kaligithipranai@gmail.com**
+  📫 How to reach me **kaligithipranai@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/pranai-raj/).
   
   
 <h3><p align=""> <img src="https://komarev.com/ghpvc/?username=Pranai2518&label=Profile%20views&color=blue&style=flat" alt="PranaiRaj" /> </p></h3>
