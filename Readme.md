@@ -4,12 +4,13 @@
 <p align="left">
   <p>Hey there, welcome!</br>
   I'm Pranai Raj, Front End developer from <img src="https://flagcdn.com/16x12/in.png"/> <b>India</b>.</p>
-  	
+
   🌱 &nbsp;I'm currently learning MERN and DSA.\
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   📫 How to reach me **kaligithipranai@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/pranai-raj/).
   
 <h3><p align=""> <img src="https://komarev.com/ghpvc/?username=Pranai2518&label=Profile%20views&color=blue&style=flat" alt="PranaiRaj" /> </p></h3>
+  
   
  <h1>Tech Skills 🛠</h1>
  
