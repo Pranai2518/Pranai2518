@@ -11,7 +11,6 @@
   
 <h3><p align=""> <img src="https://komarev.com/ghpvc/?username=Pranai2518&label=Profile%20views&color=blue&style=flat" alt="PranaiRaj" /> </p></h3>
   
-  
  <h1>Tech Skills 🛠</h1>
  
  ### 🧑‍💻 Languages
