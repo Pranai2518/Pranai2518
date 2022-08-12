@@ -1,6 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/75829770/172219978-9b6b24bb-7ae5-4517-bff2-06bc3c82dd10.gif" width="35" />&nbsp;<b>Hi, I'm Pranai Raj</b>
 
-
 <img align="right" src="https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif" width="400"/>
 <p align="left">
   <p>Hey there, welcome!</br>
