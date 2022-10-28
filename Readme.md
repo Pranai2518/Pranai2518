@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif" width="400"/>
 <p align="left">
   <p>Hey there, welcome!</br>
-  I'm Pranai Raj, Developer from <img src="https://flagcdn.com/16x12/in.png"/> <b>India</b>.</p>
+  I'm Pranai Raj, Frontend Developer from <img src="https://flagcdn.com/16x12/in.png"/> <b>India</b>.</p>
 
   🌱 &nbsp;I'm currently learning MERN and DSA.\
   💡 &nbsp;I like to explore new trends and learn new technologies.\
